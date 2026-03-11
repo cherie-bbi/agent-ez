@@ -1,7 +1,3 @@
-# Agent ez Ecosystem
-
-Welcome to **Agent ez** - a Multi-Agent Workspace designed with a 'Skill-First' philosophy.
-
 ## Design Philosophy
 This ecosystem focuses on building a foundation of powerful and independent **Skills**. Subsequently, **Agents** are defined to utilize these skills through specific **Workflows**.
 
